@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/毕设组/SVMClassifier最终版本/jfreechart-1.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/毕设组/06级毕设资料/纪德伟/毕业设计/jfreechart-1.0.13/jfreechart-1.0.13-demo.jar"/>
+	<classpathentry kind="lib" path="E:/毕设组/06级毕设资料/纪德伟/毕业设计/源代码/BTSVMClassifier/JFreeChartLib/gnujaxp.jar"/>
+	<classpathentry kind="lib" path="E:/毕设组/06级毕设资料/纪德伟/毕业设计/源代码/BTSVMClassifier/JFreeChartLib/jcommon-1.0.16.jar"/>
+	<classpathentry kind="lib" path="E:/毕设组/06级毕设资料/纪德伟/毕业设计/源代码/BTSVMClassifier/JFreeChartLib/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
